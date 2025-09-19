@@ -1,4 +1,7 @@
 streamlit
 opencv-python
+torch
+torchvision
+onnxruntime
 numpy
 Pillow
